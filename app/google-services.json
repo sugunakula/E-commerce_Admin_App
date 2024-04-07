@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "605427451265",
+    "firebase_url": "https://bgmi-da127-default-rtdb.firebaseio.com",
+    "project_id": "bgmi-da127",
+    "storage_bucket": "bgmi-da127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605427451265:android:fc02dd10dfa3870d9e5480",
+        "android_client_info": {
+          "package_name": "com.codr.bgmitournament"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEJqY1OMc5hg7ohH97fWbsEFimzRZFKOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
